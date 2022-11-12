@@ -6,9 +6,10 @@ I do content on Design and Development. I really enjoy learning new languages an
 * ⚛️ REACT
 * 💻 JS, HTML & CSS
 * 🎨 UX Design
-
+### What am I upto at the moment?
 - 🔭 I’m currently working on my bachelor's degree 
 - 🌱 I’m currently learning React and UX design 
+- 🔍 I'm currenly looking for an intership in web/software development and UX design
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lassinnn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lassinnn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/lassinnn)  
