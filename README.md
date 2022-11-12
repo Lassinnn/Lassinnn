@@ -4,8 +4,7 @@ I do content on Design and Development. I really enjoy learning new languages an
 
 ### Skills 
 * ⚛️ REACT
-* 💻 JS, HTML & CSS
-* 🪟 C#
+* 💻 JS, HTML, C# & CSS
 * 🎨 UX Design
 
 ### What am I upto at the moment?
