@@ -1,8 +1,11 @@
-### Hi there 👋, My name is Lassi Nurminen
-#### Welcome to my humble portfolio
+## Hi there 👋, My name is Lassi Nurminen
+### Welcome to my humble portfolio
 I do content on Design and Development. I really enjoy learning new languages and new methods of making my end-products better. My biggest interests are in front-end development with React and UX-design. I enjoy creating wireframes and analysing user data to hone my products.
 
-Skills: REACT / JS / HTML / CSS
+###Skills 
+* ⚛️ REACT
+* 💻 JS, HTML & CSS
+* 🎨 UX Design
 
 - 🔭 I’m currently working on my bachelor's degree 
 - 🌱 I’m currently learning React and UX design 
