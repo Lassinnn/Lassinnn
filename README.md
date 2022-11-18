@@ -15,11 +15,11 @@ I'm an aspiring front-end devloper with a deep interest in UX-design. I design a
 
 ## Examples of work
 
-Calculator app ➡️ https://github.com/Lassinnn/Portfolio-2022/tree/main/CalculatorReact
+⚛️ Calculator app ➡️ https://github.com/Lassinnn/Portfolio-lassinnn/tree/main/CalculatorReact
 
-Team member allocation app ➡️ https://github.com/Lassinnn/Portfolio-2022/tree/main/allocation
+⚛️ Team member allocation app ➡️ https://github.com/Lassinnn/Portfolio-lassinnn/tree/main/allocation
 
-Energy API app ➡️ https://github.com/Lassinnn/Portfolio-2022/tree/main/Energy%20API%20app
+#️⃣ Energy API app ➡️ https://github.com/Lassinnn/Portfolio-lassinnn/tree/main/Energy%20API%20app
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lassinnn&show_icons=true)  
 
