@@ -5,6 +5,7 @@ I design and develop websites and applications. I really enjoy learning new lang
 ### Skills 
 * 🖼️ REACT, BOOTSTRAP & ASP.NET
 * 💻 JS, HTML, CSS & C#
+* 💾 SQL, PHP, NODEJS
 * 🎨 UX DESIGN
 
 ### What am I upto at the moment?
