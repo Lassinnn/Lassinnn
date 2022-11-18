@@ -8,7 +8,7 @@ I'm an aspiring front-end devloper with a deep interest in UX-design. I design a
 * 💾 SQL, PHP, NODEJS
 * 🎨 UX DESIGN
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lassinnn&layout=compact)](https://github.com/lassinnn/github-readme-stats)
 
 ### What am I upto at the moment?
 - 🔭 I’m currently working on my bachelor's degree 
