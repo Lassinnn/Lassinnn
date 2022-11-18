@@ -21,8 +21,7 @@ Team member allocation app ➡️ https://github.com/Lassinnn/Portfolio-2022/tre
 
 Energy API app ➡️ https://github.com/Lassinnn/Portfolio-2022/tree/main/Energy%20API%20app
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lassinnn&show_icons=true)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Lassinnn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lassinnn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/lassinnn)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lassinnn&show_icons=true)  
 
