@@ -13,7 +13,7 @@ I'm an aspiring front-end devloper with a deep interest in UX-design. I design a
 ### What am I upto at the moment?
 - 🔭 I’m currently working on my bachelor's degree 
 - 🌱 I’m currently learning React and UX design 
-- 🔍 I'm currenly looking for an intership in web/software development and UX design
+- 🔍 I'm currently looking for an intership in web/software development and UX design
 
 ## Examples of work
 
