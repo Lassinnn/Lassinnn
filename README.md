@@ -5,7 +5,7 @@ I'm an aspiring front-end devloper with a deep interest in UX-design. I design a
 ### Skills 
 * 🖼️ REACT, BOOTSTRAP & ASP.NET
 * 💻 JS, HTML, CSS & C#
-* 💾 SQL, PHP, NODEJS
+* 💾 MongoDB, AWS, NODEJS
 * 🎨 UX DESIGN
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lassinnn)
