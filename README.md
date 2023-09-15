@@ -23,7 +23,7 @@ I'm an aspiring front-end devloper with a deep interest in UX-design. I design a
 
 🐷 Pig game JS ➡️ https://github.com/Lassinnn/Portfolio-lassinnn/tree/main/Pig%20Game
 
-#️⃣ Energy API app ➡️ https://github.com/Lassinnn/Portfolio-lassinnn/tree/main/Energy%20API%20app
+⚡ Energy usage API app ➡️ https://github.com/Lassinnn/Portfolio-lassinnn/tree/main/Energy%20API%20app
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lassinnn&show_icons=true)  
 
