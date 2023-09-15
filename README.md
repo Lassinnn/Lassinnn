@@ -3,10 +3,10 @@
 I'm an aspiring front-end devloper with a deep interest in UX-design. I design and develop websites and applications. I really enjoy learning new languages and new methods of making my end-products better. My biggest interests are in front-end development with React and UX-design. I enjoy creating wireframes, and analysing user data to hone my products.
 
 ### Skills 
-* 🖼️ REACT, BOOTSTRAP & ASP.NET
+* 🖼️ React & ASP.NET
 * 💻 JS, HTML, CSS & C#
 * 💾 MongoDB, AWS, NODEJS
-* 🎨 UX DESIGN
+* 🎨 UX Design
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lassinnn)
 
