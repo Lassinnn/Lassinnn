@@ -17,7 +17,7 @@ I'm an aspiring front-end devloper with a deep interest in UX-design. I design a
 
 ## Examples of work
 
-🖩 Calculator app ➡️ https://github.com/Lassinnn/Portfolio-lassinnn/tree/main/CalculatorReact
+➗ Calculator app ➡️ https://github.com/Lassinnn/Portfolio-lassinnn/tree/main/CalculatorReact
 
 🧑 Team member allocation app ➡️ https://github.com/Lassinnn/Portfolio-lassinnn/tree/main/allocation
 
