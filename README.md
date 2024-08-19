@@ -6,7 +6,6 @@ I'm an aspiring front-end devloper with a deep interest in UX-design. I design a
 * 🖼️ React & ASP.NET
 * 💻 JS, HTML, CSS & C#
 * 💾 MongoDB, AWS, NodeJS
-* 🎨 UX Design
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lassinnn)
 
