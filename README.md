@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Lassi Nurminen
 ### Welcome to my humble portfolio
-I'm an aspiring front-end devloper with a deep interest in UX-design. I design and develop websites and applications. I really enjoy learning new languages and new methods of making my end-products better. My biggest interests are in front-end development with React and UX-design. I enjoy creating wireframes, and analysing user data to hone my products.
+Web devloper with an interest in UX-design and cyber security. I enjoy learning new languages and new methods of making my products better. My biggest interests are in full-stack development with React and UX-design.
 
 ### Skills 
 * 🖼️ React & ASP.NET
