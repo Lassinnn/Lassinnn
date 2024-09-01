@@ -3,7 +3,7 @@
 Web devloper with an interest in UX-design and cyber security. I enjoy learning new languages and new methods of making my products better. My biggest interests are in full-stack development with React and UX-design.
 
 ### Skills 
-* 🖼️ React & ASP.NET
+* 🖼️ React & Tailwind
 * 💻 JS, HTML, CSS & C#
 * 💾 MongoDB, AWS, NodeJS
 
@@ -21,8 +21,6 @@ Web devloper with an interest in UX-design and cyber security. I enjoy learning 
 🧑 Team member allocation app ➡️ https://github.com/Lassinnn/Portfolio-lassinnn/tree/main/allocation
 
 🐷 Pig game JS ➡️ https://github.com/Lassinnn/Portfolio-lassinnn/tree/main/Pig%20Game
-
-⚡ Energy usage API app ➡️ https://github.com/Lassinnn/Portfolio-lassinnn/tree/main/Energy%20API%20app
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lassinnn&show_icons=true)  
 
