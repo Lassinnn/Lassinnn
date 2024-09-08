@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Lassi Nurminen
 ### Welcome to my humble portfolio
-Web devloper with an interest in UX-design and cyber security. I enjoy learning new languages and new methods of making my products better. My biggest interests are in full-stack development with React and UX-design.
+Web developer with an interest in UX-design and cyber security. I enjoy learning new languages and new methods of making my products better. My biggest interests are in full-stack development with React and UX-design.
 
 ### Skills 
 * 🖼️ React & Tailwind
