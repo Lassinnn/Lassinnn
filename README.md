@@ -12,7 +12,7 @@ Web developer with an interest in UX-design and cyber security. I enjoy learning
 ### What am I upto at the moment?
 - 💼 I'm currently working at Target Group Limited
 - 🔭 I’m currently working on my bachelor's degree 
-- 🌱 I’m currently learning React and UX design 
+- 🌱 I’m currently learning React and Web design 
 - 🔍 I'm currently looking for an intership in web/software development and UX design
 
 ## Examples of work
